@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+    
+}
+
+header {
+    font-size: large;
+    font-weight: bolder;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+main {
+    display: inline-block;
+
+}
+
+div {
+    display: inline-block;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+p {
+    float: left;
+    width: 40%;
+
+}
+
+img {
+    float: left;
+    margin-left: 10%;
+}
+
+footer {
+    color: rgb(120, 118, 115);
+}
